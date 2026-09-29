@@ -1,0 +1,1041 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.6.0-43139311</SDKVersion>
+	<Host>Revit</Host>
+	<Application Vendor="Autodesk Inc." ProductName="Revit" ProductVersion="2027"/>
+	<ResourcePath>C:/Users/Sam/Documents/Chess/04_Exchange</ResourcePath>
+	<User ID="b98ba99642cdf6e80ffb21a4d104bad2" OS="Windows 11 (25H2) [10.0.26200.9457]"/>
+	<Geolocation/>
+	<StaticMesh name="a55cb5cc2503224947106ca65dd1bff8" label="Walls_Basic_Wall_WTK_Interior_6in">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/a55cb5cc2503224947106ca65dd1bff8.udsmesh"/>
+		<Size a="204267.328125" x="396.23999" y="15.24" z="243.839996"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3fd558bc9c8b11eb4716eb8d0aa99b86"/>
+		<Material id="0" name="0bca052218cd29b5cb3dbbd6c7489e50"/>
+	</StaticMesh>
+	<StaticMesh name="7253225715f325fb8bf3a632708c5c53" label="Walls_Basic_Wall_WTK_Interior_6in">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/7253225715f325fb8bf3a632708c5c53.udsmesh"/>
+		<Size a="236438.234375" x="441.959991" y="15.24" z="243.839996"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="61fb79af90a8d16a1dc3f9bfe49a7f94"/>
+		<Material id="0" name="0bca052218cd29b5cb3dbbd6c7489e50"/>
+	</StaticMesh>
+	<StaticMesh name="476558ac90ede3836668c4752f28f6b1" label="Walls_Basic_Wall_WTK_Interior_6in">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/476558ac90ede3836668c4752f28f6b1.udsmesh"/>
+		<Size a="204851.21875" x="381.0" y="15.24" z="243.839996"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="de7898c193503bd16edc0140229b59bb"/>
+		<Material id="0" name="0bca052218cd29b5cb3dbbd6c7489e50"/>
+	</StaticMesh>
+	<StaticMesh name="d6351c37d5f948814950de3c85d5efaf" label="Walls_Basic_Wall_WTK_Interior_6in">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/d6351c37d5f948814950de3c85d5efaf.udsmesh"/>
+		<Size a="228541.5" x="426.720001" y="15.24" z="243.839996"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ade3ae38d77c52daddc91dfbaa76da1d"/>
+		<Material id="0" name="0bca052218cd29b5cb3dbbd6c7489e50"/>
+	</StaticMesh>
+	<StaticMesh name="23fdff40bbc3f3a5546d838ab41dc4f0" label="Floors_Floor_Generic_-_12_">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/23fdff40bbc3f3a5546d838ab41dc4f0.udsmesh"/>
+		<Size a="320205.84375" x="365.76001" y="426.720001" z="5.08"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9e158e83faddfa53df1581d2852300c0"/>
+		<Material id="0" name="8c483573d283f7bdf614ded0e92c3e2e"/>
+	</StaticMesh>
+	<StaticMesh name="6ade7ab2763bc01438d94f80504f3ab5" label="Ceilings_Basic_Ceiling_Generic">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/6ade7ab2763bc01438d94f80504f3ab5.udsmesh"/>
+		<Size a="156077.109375" x="365.76001" y="426.720001" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9c69c4a40e502cd349934453d42c4324"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
+	<StaticMesh name="c7c54c684cde5c3a6af218de6aee4d5a" label="Windows_Window-Fixed_WTK_Fixed_2630__29_5x35_5_">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/c7c54c684cde5c3a6af218de6aee4d5a.udsmesh"/>
+		<Size a="36287.066406" x="74.929993" y="11.429999" z="90.169998"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="98388839aa8fe0055213a89233f32296"/>
+		<Material id="0" name="c93cbbf7ac15c9f91760b732ace4350e"/>
+		<Material id="1" name="48e4042a7e6d1b59f3ec7659630cd0fe"/>
+		<Material id="2" name="ff213400d6d5e47f81321dbefd0be133"/>
+	</StaticMesh>
+	<StaticMesh name="4265cd12f329b85c774e6e26dd24d03e" label="Generic_Models_Muntin_Pattern_2x2_Muntin_Pattern_2x2">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/4265cd12f329b85c774e6e26dd24d03e.udsmesh"/>
+		<Size a="1516.125244" x="67.309998" y="4.445" z="82.549995"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="17c4239b6625937e5bfe57485c7a3de2"/>
+		<Material id="0" name="ff213400d6d5e47f81321dbefd0be133"/>
+		<Material id="1" name="48e4042a7e6d1b59f3ec7659630cd0fe"/>
+	</StaticMesh>
+	<StaticMesh name="c537b6f9a97b0399550c6744270343a8" label="Casework_WTK_DB18_DB18">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/c537b6f9a97b0399550c6744270343a8.udsmesh"/>
+		<Size a="41755.292969" x="45.720001" y="64.135002" z="87.629997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fcb5fbd3af78066d85b616646bdffd74"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="eec2d6b241eec3e42f5cf332f6742c8d" label="Casework_WTK_SB36_SB36">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/eec2d6b241eec3e42f5cf332f6742c8d.udsmesh"/>
+		<Size a="63410.378906" x="91.440002" y="63.182503" z="87.629997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="693d4b6f3823983f1b2882835dd59df4"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="ff12ddc5468584d2c421ab8cfdad29ae" label="Casework_WTK_B30_B30">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/ff12ddc5468584d2c421ab8cfdad29ae.udsmesh"/>
+		<Size a="66430.75" x="76.199997" y="63.182503" z="87.629997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d820a579baf1b5d980bf3055cec88aa3"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="06d2d7f16b2a9ebcc7fb6db3e21fd371"/>
+		<Material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="126a492febdb0917bd6690b1a8b1bb23" label="Casework_WTK_DB24_DB24">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/126a492febdb0917bd6690b1a8b1bb23.udsmesh"/>
+		<Size a="49198.886719" x="60.959999" y="64.135002" z="87.629997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54e995c136bb7a55a2fa1b35bee7197d"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="6a9a0bad412320934a8db2e9f48965f7" label="Casework_WTK_B12_B12">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/6a9a0bad412320934a8db2e9f48965f7.udsmesh"/>
+		<Size a="33755.46875" x="30.48" y="64.135002" z="87.629997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f8c28232d886412d49a47cc71e82be64"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="c5c0f315f4f53dfd63d16e5156fd6bae" label="Casework_WTK_W18_W18">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/c5c0f315f4f53dfd63d16e5156fd6bae.udsmesh"/>
+		<Size a="31388.845703" x="45.720001" y="32.702499" z="76.199997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e85ae3d72fb7aa2a06266f637b8c385c"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="8560825b0fea123d4827adb2964612ee" label="Casework_WTK_W30_W30">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/8560825b0fea123d4827adb2964612ee.udsmesh"/>
+		<Size a="46745.46875" x="76.199997" y="32.702499" z="76.199997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cf3e3fc1dff89d2f304959389d7c1bb1"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+		<Material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="adbff58ba27ab6952d89a0d31ad32ba8" label="Casework_FX-01">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/adbff58ba27ab6952d89a0d31ad32ba8.udsmesh"/>
+		<Size a="68548.234375" x="309.880005" y="63.499996" z="3.810005"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ebdb42edd82bd1a13de726dfa18fbb4"/>
+		<Material id="0" name="c6eb37e6995f7dcbb2f4d438a6cb9458"/>
+		<Material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+	</StaticMesh>
+	<StaticMesh name="ed16d657ad54b42adc33ae69e2c58bf6" label="Plumbing_Fixtures_FX-02">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/ed16d657ad54b42adc33ae69e2c58bf6.udsmesh"/>
+		<Size a="11458.042969" x="71.119995" y="40.639999" z="25.400005"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="484580c62e299237114693da482b5dd6"/>
+		<Material id="0" name="b5ed17784f41a18a2d29a68662decbc8"/>
+	</StaticMesh>
+	<StaticMesh name="d178ad53d7d064a5d02b1fe82f8b3151" label="Plumbing_Fixtures_FX-03">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/d178ad53d7d064a5d02b1fe82f8b3151.udsmesh"/>
+		<Size a="743.546875" x="2.540001" y="25.400002" z="39.846237"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="880749df3556d9b5e9ba2dad0ec21661"/>
+		<Material id="0" name="81d35efa602178696eda9dd4e09af35d"/>
+	</StaticMesh>
+	<StaticMesh name="4df4e0b162f1964eb0c4a777d4ea23ce" label="Furniture_FX-05">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/4df4e0b162f1964eb0c4a777d4ea23ce.udsmesh"/>
+		<Size a="10922.557617" x="90.169998" y="25.4" z="39.369995"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6860244117716e6d0530642dc2db167d"/>
+		<Material id="0" name="06d2d7f16b2a9ebcc7fb6db3e21fd371"/>
+	</StaticMesh>
+	<StaticMesh name="ab47cbff6bee36448ca86edd977d83aa" label="Generic_Models_FX-06">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/ab47cbff6bee36448ca86edd977d83aa.udsmesh"/>
+		<Size a="10741.913086" x="213.360001" y="32.384998" z="7.619995"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3c1382522c33abd01be1d7fce9dd9748"/>
+		<Material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+	</StaticMesh>
+	<StaticMesh name="75bd21c08c7ecc5fbe3c4f96739411ff" label="Casework_FX-04">
+		<file path="WTK_Start-3DView-WTK_Datasmith_Export_Assets/75bd21c08c7ecc5fbe3c4f96739411ff.udsmesh"/>
+		<Size a="24967.691406" x="304.799988" y="1.905" z="45.720001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d62415d4f14797a5319acae869e050d1"/>
+		<Material id="0" name="c6eb37e6995f7dcbb2f4d438a6cb9458"/>
+	</StaticMesh>
+	<Camera name="2f38f23da04116555b1082e6a05d6803" label="WTK_Datasmith_Export" layer="Views" mobility="Movable">
+		<Transform tx="-5780.142914" ty="5416.922764" tz="4603.794269" sx="1.0" sy="1.0" sz="1.0" qx="0.09742" qy="0.235192" qz="-0.370076" qw="0.893442" qhex64="828EC8547FF0B83F9285AC24C51ACE3F1A89A4EB51AFD7BF2716EF1E1397EC3F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.176398"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="30480.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="35.0"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Actor name="8b0180029f5acae314af622c5173c06b" label="Site_Location" layer="Location Data" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.47144" />
+		<tag value="Revit.Element.UniqueId.efe68c93-403e-4aef-9009-6877b8b49865-0000b828" />
+		<tag value="Revit.Element.SiteLocation" />
+	</Actor>
+	<Actor name="cf6152e30339765264d57a9477a60201" label="Survey_Point" layer="Survey Point" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.143297" />
+		<tag value="Revit.Element.UniqueId.a6488d9b-441f-42ff-8749-06262912d3fa-00022fc1" />
+		<tag value="Revit.Element.SurveyPoint" />
+	</Actor>
+	<Actor name="794fdf7ea22e73af20feb0e3aecdc010" label="Base_Point" layer="Project Base Point" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.143300" />
+		<tag value="Revit.Element.UniqueId.a6488d9b-441f-42ff-8749-06262912d3fa-00022fc4" />
+		<tag value="Revit.Element.BasePoint" />
+	</Actor>
+	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_1_4__Head_Finished_Floor" layer="Levels" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.30" />
+		<tag value="Revit.Element.UniqueId.933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001e" />
+		<tag value="IsElement" />
+		<children visible="true">
+			<ActorMesh name="e5ce5ae9db514d9b98c5edd60772578e" label="Walls_Basic_Wall_WTK_Interior_6in" layer="Walls" mobility="Static">
+				<mesh name="a55cb5cc2503224947106ca65dd1bff8"/>
+				<Transform tx="-342.899995" ty="7.62" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.1245685" />
+				<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-001301f5" />
+				<tag value="IsElement" />
+				<children visible="true">
+					<ActorMesh name="86de4dd15310eb823da601f9c2356e8d" label="Windows_Window-Fixed_WTK_Fixed_2630__29_5x35_5_" layer="Windows" mobility="Static">
+						<mesh name="c7c54c684cde5c3a6af218de6aee4d5a"/>
+						<material id="0" name="c93cbbf7ac15c9f91760b732ace4350e"/>
+						<material id="1" name="c93cbbf7ac15c9f91760b732ace4350e"/>
+						<material id="1" name="48e4042a7e6d1b59f3ec7659630cd0fe"/>
+						<material id="2" name="ff213400d6d5e47f81321dbefd0be133"/>
+						<material id="3" name="48e4042a7e6d1b59f3ec7659630cd0fe"/>
+						<material id="3" name="ff213400d6d5e47f81321dbefd0be133"/>
+						<Transform tx="-91.439999" ty="7.62" tz="15.875" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Revit.Element.Id.1245715" />
+						<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-00130213" />
+						<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+						<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+						<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+						<tag value="Revit.Host.Id.1245685" />
+						<tag value="Revit.Host.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-001301f5" />
+						<children visible="true">
+							<ActorMesh name="0af2eeef3498abd5be73d0d9ec736c84" label="Generic_Models_Muntin_Pattern_2x2_Muntin_Pattern_2x2" layer="Generic Models" mobility="Static">
+								<mesh name="4265cd12f329b85c774e6e26dd24d03e"/>
+								<material id="0" name="ff213400d6d5e47f81321dbefd0be133"/>
+								<material id="1" name="ff213400d6d5e47f81321dbefd0be133"/>
+								<material id="1" name="48e4042a7e6d1b59f3ec7659630cd0fe"/>
+								<material id="2" name="48e4042a7e6d1b59f3ec7659630cd0fe"/>
+								<Transform tx="-91.439999" ty="0.9525" tz="111.124998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+								<tag value="Revit.Element.Id.1245729" />
+								<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-00130221" />
+								<tag value="Revit.DB.FamilyInstance.Mirrored.True" />
+								<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+								<tag value="Revit.DB.FamilyInstance.FaceFlipped.True" />
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+			<ActorMesh name="5da63e101d245e46354e446e0493dc77" label="Walls_Basic_Wall_WTK_Interior_6in" layer="Walls" mobility="Static">
+				<mesh name="7253225715f325fb8bf3a632708c5c53"/>
+				<Transform tx="38.099999" ty="7.62" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000CD3B7F669EA0E6BFCE3B7F669EA0E63F"/>
+				<tag value="Revit.Element.Id.1245686" />
+				<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-001301f6" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="9dc62199611772abd3fa0bfe101efd42" label="Walls_Basic_Wall_WTK_Interior_6in" layer="Walls" mobility="Static">
+				<mesh name="476558ac90ede3836668c4752f28f6b1"/>
+				<Transform tx="38.099999" ty="-434.339993" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1245687" />
+				<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-001301f7" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="d7ede7979fd1e7f1d8c8ef5d5bddd47f" label="Walls_Basic_Wall_WTK_Interior_6in" layer="Walls" mobility="Static">
+				<mesh name="d6351c37d5f948814950de3c85d5efaf"/>
+				<Transform tx="-342.899995" ty="-434.339993" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCE3B7F669EA0E63F"/>
+				<tag value="Revit.Element.Id.1245688" />
+				<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-001301f8" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="fc77768c24060705440d693f4046fd53" label="Floors_Floor_Generic_-_12_" layer="Floors" mobility="Static">
+				<mesh name="23fdff40bbc3f3a5546d838ab41dc4f0"/>
+				<Transform tx="-335.279995" ty="0.0" tz="-5.08" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.1245701" />
+				<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-00130205" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="42429466bf64490dcb3239c52334924a" label="Casework_WTK_DB18_DB18" layer="Casework" mobility="Static">
+				<mesh name="c537b6f9a97b0399550c6744270343a8"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1246691" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-001305e3" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+			<ActorMesh name="d868f05e152180656d4a34e217dd98cb" label="Casework_WTK_SB36_SB36" layer="Casework" mobility="Static">
+				<mesh name="eec2d6b241eec3e42f5cf332f6742c8d"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-45.719999" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1247684" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-001309c4" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+			<ActorMesh name="df6d20934fe3e8747117716805b5f773" label="Casework_WTK_B30_B30" layer="Casework" mobility="Static">
+				<mesh name="ff12ddc5468584d2c421ab8cfdad29ae"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="06d2d7f16b2a9ebcc7fb6db3e21fd371"/>
+				<material id="2" name="06d2d7f16b2a9ebcc7fb6db3e21fd371"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="3" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-137.159998" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1248688" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-00130db0" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+			<ActorMesh name="c14b7e89b8f6352646406c57d3b06c18" label="Casework_WTK_DB24_DB24" layer="Casework" mobility="Static">
+				<mesh name="126a492febdb0917bd6690b1a8b1bb23"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-213.359997" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1249593" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-00131139" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+			<ActorMesh name="987c9529c42eac1e111918cf76eb55df" label="Casework_WTK_B12_B12" layer="Casework" mobility="Static">
+				<mesh name="6a9a0bad412320934a8db2e9f48965f7"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-274.319996" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1250476" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-001314ac" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+			<ActorMesh name="7c56b75b2aebfaf921767358ccb91407" label="Casework_WTK_W18_W18" layer="Casework" mobility="Static">
+				<mesh name="c5c0f315f4f53dfd63d16e5156fd6bae"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-0.0" ty="0.0" tz="137.159998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1251392" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-00131840" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+			<ActorMesh name="e075c5361fab91ed125f3c52c12b9e47" label="Casework_WTK_W30_W30" layer="Casework" mobility="Static">
+				<mesh name="8560825b0fea123d4827adb2964612ee"/>
+				<material id="0" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="35e862feb5b7df7c56a21d4fe02a48d2"/>
+				<material id="1" name="81d35efa602178696eda9dd4e09af35d"/>
+				<material id="2" name="81d35efa602178696eda9dd4e09af35d"/>
+				<Transform tx="-137.159998" ty="0.0" tz="137.159998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.1252374" />
+				<tag value="Revit.Element.UniqueId.7335bb10-f085-4ddb-b546-4c235a7f5772-00131c16" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="f764c31321e942e4a44d105c6318916c" label="Casework_FX-01" layer="Casework" mobility="Static">
+		<mesh name="adbff58ba27ab6952d89a0d31ad32ba8"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.1258087" />
+		<tag value="Revit.Element.UniqueId.08deb495-0d64-4a54-a38e-49786b2a54d4-00133267" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="ff66b8f6d9836b65284e5be92d2b9abf" label="Plumbing_Fixtures_FX-02" layer="Plumbing Fixtures" mobility="Static">
+		<mesh name="ed16d657ad54b42adc33ae69e2c58bf6"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.1258088" />
+		<tag value="Revit.Element.UniqueId.08deb495-0d64-4a54-a38e-49786b2a54d4-00133268" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="fc4fe78c1ea38443bb390724d08012df" label="Plumbing_Fixtures_FX-03" layer="Plumbing Fixtures" mobility="Static">
+		<mesh name="d178ad53d7d064a5d02b1fe82f8b3151"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.1258089" />
+		<tag value="Revit.Element.UniqueId.08deb495-0d64-4a54-a38e-49786b2a54d4-00133269" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="c200583cdbf6f9863580daa2d61102d7" label="Furniture_FX-05" layer="Furniture" mobility="Static">
+		<mesh name="4df4e0b162f1964eb0c4a777d4ea23ce"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.1258091" />
+		<tag value="Revit.Element.UniqueId.08deb495-0d64-4a54-a38e-49786b2a54d4-0013326b" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="0cef2e43706aa134ba57c4d89c0f5ea9" label="Generic_Models_FX-06" layer="Generic Models" mobility="Static">
+		<mesh name="ab47cbff6bee36448ca86edd977d83aa"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.1258092" />
+		<tag value="Revit.Element.UniqueId.08deb495-0d64-4a54-a38e-49786b2a54d4-0013326c" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="af61c761bf7b9ecb99091aa12bb88e30" label="Casework_FX-04" layer="Casework" mobility="Static">
+		<mesh name="75bd21c08c7ecc5fbe3c4f96739411ff"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.1271691" />
+		<tag value="Revit.Element.UniqueId.b27fd199-95ab-461d-8f66-a7bcc1e873c9-0013678b" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_1_4__Head_Ceiling" layer="Levels" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.9946" />
+		<tag value="Revit.Element.UniqueId.6341822b-d4f3-11d3-a039-0000863f1523-000026da" />
+		<tag value="IsElement" />
+		<children visible="true">
+			<ActorMesh name="c782d42a3d8d37bdfc358b3a40b8bc8e" label="Ceilings_Basic_Ceiling_Generic" layer="Ceilings" mobility="Static">
+				<mesh name="6ade7ab2763bc01438d94f80504f3ab5"/>
+				<Transform tx="-335.279995" ty="0.0" tz="243.839996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.1245708" />
+				<tag value="Revit.Element.UniqueId.8b7a8812-dd3f-4573-bd21-7b5edcd2a8b6-0013020c" />
+				<tag value="IsElement" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="06e682e07908cf9ce35cd022a4c133fd_0" label="wood_birch_color" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="WTK_Start-3DView-WTK_Datasmith_Export_Assets/wood_birch_color.jpg">
+		<Hash value="d96cf4eb98ae702b78428d78c116c9dd"/>
+	</Texture>
+	<Texture name="90d7c10cbcd7b8bc9986e6165f8bd5f3_0" label="wood_birch_varnished_rough" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="WTK_Start-3DView-WTK_Datasmith_Export_Assets/wood_birch_varnished_rough.jpg">
+		<Hash value="4bda09b8c8a40587a47bd74ac00735ef"/>
+	</Texture>
+	<MaterialInstance name="0bca052218cd29b5cb3dbbd6c7489e50"  label="Wall_WarmOffWhite" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.960784,G=0.941176,B=0.901961,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.100000"/>
+	</MaterialInstance>
+	<MaterialInstance name="8c483573d283f7bdf614ded0e92c3e2e"  label="Default_Floor" Type="1" Quality="0" >
+		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.215686,G=0.215686,B=0.215686,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="Rougness" type="Float" val="0.122500"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+	</MaterialInstance>
+	<MaterialInstance name="74d6cacb9641b43e961979b661d30677"  label="RNT_Material" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="c93cbbf7ac15c9f91760b732ace4350e"  label="Glass_Clear" Type="2" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.862745,G=0.921569,B=0.921569,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="Transparency" type="Float" val="0.700000"/>
+		<KeyValueProperty name="TransparencyMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RefractionIndex" type="Float" val="1.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="48e4042a7e6d1b59f3ec7659630cd0fe"  label="Wood_-_Stained" Type="1" Quality="0" >
+		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMap" type="Texture" val="06e682e07908cf9ce35cd022a4c133fd_0"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleX" type="Float" val="0.666667"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleY" type="Float" val="0.333333"/>
+		<KeyValueProperty name="DiffuseMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="1.000000"/>
+		<KeyValueProperty name="RoughnessMap" type="Texture" val="90d7c10cbcd7b8bc9986e6165f8bd5f3_0"/>
+		<KeyValueProperty name="RoughnessMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMap_UVScaleX" type="Float" val="0.666667"/>
+		<KeyValueProperty name="RoughnessMap_UVScaleY" type="Float" val="0.333333"/>
+		<KeyValueProperty name="RoughnessMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="True"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+	</MaterialInstance>
+	<MaterialInstance name="ff213400d6d5e47f81321dbefd0be133"  label="Clad_-_White" Type="1" Quality="0" >
+		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.960784,G=0.960784,B=0.952941,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="Rougness" type="Float" val="0.077460"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+	</MaterialInstance>
+	<MaterialInstance name="35e862feb5b7df7c56a21d4fe02a48d2"  label="Paint_WarmIvory" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.941176,G=0.917647,B=0.839216,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="81d35efa602178696eda9dd4e09af35d"  label="Metal_SatinBrass" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.709804,G=0.580392,B=0.266667,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="06d2d7f16b2a9ebcc7fb6db3e21fd371"  label="Oak_StainedWarmBrown" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.396078,G=0.262745,B=0.129412,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="c6eb37e6995f7dcbb2f4d438a6cb9458"  label="Stone_HonedCream" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.870588,G=0.823529,B=0.737255,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.300000"/>
+	</MaterialInstance>
+	<MaterialInstance name="b5ed17784f41a18a2d29a68662decbc8"  label="Steel_Brushed" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.549020,G=0.549020,B=0.549020,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.400000"/>
+	</MaterialInstance>
+	<MetaData name="cf6152e30339765264d57a9477a60201_DATA" reference="Actor.cf6152e30339765264d57a9477a60201">
+		<KeyValueProperty name="SurveyPointLocation*Location" type="Vector" val="(0,0,0)"/>
+		<KeyValueProperty name="SurveyPointLocation*N/S" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="SurveyPointLocation*E/W" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="SurveyPointLocation*Elev" type="String" val="0&apos; - 0&quot;"/>
+	</MetaData>
+	<MetaData name="794fdf7ea22e73af20feb0e3aecdc010_DATA" reference="Actor.794fdf7ea22e73af20feb0e3aecdc010">
+		<KeyValueProperty name="BasePointLocation*Location" type="Vector" val="(0,0,0)"/>
+		<KeyValueProperty name="BasePointLocation*N/S" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="BasePointLocation*E/W" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="BasePointLocation*Elev" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="BasePointLocation*Angle to True North" type="String" val="0.00°"/>
+	</MetaData>
+	<MetaData name="86de4dd15310eb823da601f9c2356e8d_DATA" reference="Actor.86de4dd15310eb823da601f9c2356e8d">
+		<KeyValueProperty name="Element*Category" type="String" val="Windows"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Window-Fixed"/>
+		<KeyValueProperty name="Element*Type" type="String" val="WTK Fixed 2630 (29.5x35.5)"/>
+		<KeyValueProperty name="Element*Exterior Wall Closure" type="String" val="0&apos; - 1 1/4&quot;"/>
+		<KeyValueProperty name="Element*Interior Wall Closure" type="String" val="0&apos; - 2 1/4&quot;"/>
+		<KeyValueProperty name="Element*Extension Jamb" type="String" val="0&apos; - 2 1/4&quot;"/>
+		<KeyValueProperty name="Element*Mark" type="String" val="100"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 5 1/2&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 11 1/2&quot;"/>
+		<KeyValueProperty name="Type*Rough Width" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Rough Height" type="String" val="3&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Fire Rating" type="String" val="0.5h"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="WTK-WIN-02"/>
+		<KeyValueProperty name="Type*Exterior Frame Material" type="String" val="Clad - White"/>
+		<KeyValueProperty name="Type*Interior Frame Material" type="String" val="Wood - Stained"/>
+		<KeyValueProperty name="Type*Exterior Trim Material" type="String" val="Clad - White"/>
+		<KeyValueProperty name="Type*Interior Trim Material" type="String" val="Wood - Stained"/>
+		<KeyValueProperty name="Type*Glass Panel Material" type="String" val="Glass_Clear"/>
+	</MetaData>
+	<MetaData name="70edc815fe1c171b596b3cb55b4ec041_DATA" reference="Actor.70edc815fe1c171b596b3cb55b4ec041">
+		<KeyValueProperty name="Element*Category" type="String" val="Windows"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Window-Fixed"/>
+		<KeyValueProperty name="Element*Type" type="String" val="WTK Fixed 2630 (29.5x35.5)"/>
+		<KeyValueProperty name="Element*Exterior Wall Closure" type="String" val="0&apos; - 1 1/4&quot;"/>
+		<KeyValueProperty name="Element*Interior Wall Closure" type="String" val="0&apos; - 2 1/4&quot;"/>
+		<KeyValueProperty name="Element*Extension Jamb" type="String" val="0&apos; - 2 1/4&quot;"/>
+		<KeyValueProperty name="Element*Mark" type="String" val="100"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 5 1/2&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 11 1/2&quot;"/>
+		<KeyValueProperty name="Type*Rough Width" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Rough Height" type="String" val="3&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Fire Rating" type="String" val="0.5h"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="WTK-WIN-02"/>
+		<KeyValueProperty name="Type*Exterior Frame Material" type="String" val="Clad - White"/>
+		<KeyValueProperty name="Type*Interior Frame Material" type="String" val="Wood - Stained"/>
+		<KeyValueProperty name="Type*Exterior Trim Material" type="String" val="Clad - White"/>
+		<KeyValueProperty name="Type*Interior Trim Material" type="String" val="Wood - Stained"/>
+		<KeyValueProperty name="Type*Glass Panel Material" type="String" val="Glass_Clear"/>
+	</MetaData>
+	<MetaData name="e5ce5ae9db514d9b98c5edd60772578e_DATA" reference="Actor.e5ce5ae9db514d9b98c5edd60772578e">
+		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
+		<KeyValueProperty name="Element*Type" type="String" val="WTK Interior 6in"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Structural Usage" type="String" val="Non-bearing"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Length" type="String" val="12&apos; - 6&quot;"/>
+		<KeyValueProperty name="Element*Area" type="String" val="97 SF"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="48.36 CF"/>
+		<KeyValueProperty name="Type*Description" type="String" val="Generic Wall (Material By Category), 6&quot; thick"/>
+		<KeyValueProperty name="Type*Structural Material" type="String" val="Wall_WarmOffWhite"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="WTK-WALL-01"/>
+	</MetaData>
+	<MetaData name="5da63e101d245e46354e446e0493dc77_DATA" reference="Actor.5da63e101d245e46354e446e0493dc77">
+		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
+		<KeyValueProperty name="Element*Type" type="String" val="WTK Interior 6in"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Structural Usage" type="String" val="Non-bearing"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Length" type="String" val="14&apos; - 6&quot;"/>
+		<KeyValueProperty name="Element*Area" type="String" val="116 SF"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="58.00 CF"/>
+		<KeyValueProperty name="Type*Description" type="String" val="Generic Wall (Material By Category), 6&quot; thick"/>
+		<KeyValueProperty name="Type*Structural Material" type="String" val="Wall_WarmOffWhite"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="WTK-WALL-01"/>
+	</MetaData>
+	<MetaData name="9dc62199611772abd3fa0bfe101efd42_DATA" reference="Actor.9dc62199611772abd3fa0bfe101efd42">
+		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
+		<KeyValueProperty name="Element*Type" type="String" val="WTK Interior 6in"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Structural Usage" type="String" val="Non-bearing"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Length" type="String" val="12&apos; - 6&quot;"/>
+		<KeyValueProperty name="Element*Area" type="String" val="100 SF"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="50.00 CF"/>
+		<KeyValueProperty name="Type*Description" type="String" val="Generic Wall (Material By Category), 6&quot; thick"/>
+		<KeyValueProperty name="Type*Structural Material" type="String" val="Wall_WarmOffWhite"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="WTK-WALL-01"/>
+	</MetaData>
+	<MetaData name="d7ede7979fd1e7f1d8c8ef5d5bddd47f_DATA" reference="Actor.d7ede7979fd1e7f1d8c8ef5d5bddd47f">
+		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
+		<KeyValueProperty name="Element*Type" type="String" val="WTK Interior 6in"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Structural Usage" type="String" val="Non-bearing"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Length" type="String" val="14&apos; - 6&quot;"/>
+		<KeyValueProperty name="Element*Area" type="String" val="112 SF"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="56.00 CF"/>
+		<KeyValueProperty name="Type*Description" type="String" val="Generic Wall (Material By Category), 6&quot; thick"/>
+		<KeyValueProperty name="Type*Structural Material" type="String" val="Wall_WarmOffWhite"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="WTK-WALL-01"/>
+	</MetaData>
+	<MetaData name="fc77768c24060705440d693f4046fd53_DATA" reference="Actor.fc77768c24060705440d693f4046fd53">
+		<KeyValueProperty name="Element*Category" type="String" val="Floors"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Floor"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Generic - 12&quot;"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Has Association" type="String" val="No"/>
+		<KeyValueProperty name="Element*Perimeter" type="String" val="52&apos; - 0&quot;"/>
+		<KeyValueProperty name="Element*Area" type="String" val="168 SF"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="168.00 CF"/>
+		<KeyValueProperty name="Element*Elevation at Top" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="-1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Element*Thickness" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Description" type="String" val="Generic Floor (Material By Category), 12&quot; thick"/>
+		<KeyValueProperty name="Type*Structural Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Type Mark" type="String" val="G01"/>
+	</MetaData>
+	<MetaData name="0af2eeef3498abd5be73d0d9ec736c84_DATA" reference="Actor.0af2eeef3498abd5be73d0d9ec736c84">
+		<KeyValueProperty name="Element*Category" type="String" val="Generic Models"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Muntin Pattern_2x2"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Muntin Pattern_2x2"/>
+		<KeyValueProperty name="Element*Height" type="String" val="2&apos; - 8 1/2&quot;"/>
+		<KeyValueProperty name="Element*Width" type="String" val="2&apos; - 2 1/2&quot;"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="0.02 CF"/>
+		<KeyValueProperty name="Element*Exterior Material" type="String" val="Clad - White"/>
+		<KeyValueProperty name="Element*Interior Material" type="String" val="Wood - Stained"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Thickness" type="String" val="0&apos; - 0 1/2&quot;"/>
+		<KeyValueProperty name="Type*Distance" type="String" val="0&apos; - 0 3/4&quot;"/>
+	</MetaData>
+	<MetaData name="e39227a7d8870a00e6e8ed2b40a19b57_DATA" reference="Actor.e39227a7d8870a00e6e8ed2b40a19b57">
+		<KeyValueProperty name="Element*Category" type="String" val="Generic Models"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Muntin Pattern_2x2"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Muntin Pattern_2x2"/>
+		<KeyValueProperty name="Element*Height" type="String" val="2&apos; - 8 1/2&quot;"/>
+		<KeyValueProperty name="Element*Width" type="String" val="2&apos; - 2 1/2&quot;"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="0.02 CF"/>
+		<KeyValueProperty name="Element*Exterior Material" type="String" val="Clad - White"/>
+		<KeyValueProperty name="Element*Interior Material" type="String" val="Wood - Stained"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Thickness" type="String" val="0&apos; - 0 1/2&quot;"/>
+		<KeyValueProperty name="Type*Distance" type="String" val="0&apos; - 0 3/4&quot;"/>
+	</MetaData>
+	<MetaData name="42429466bf64490dcb3239c52334924a_DATA" reference="Actor.42429466bf64490dcb3239c52334924a">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_DB18"/>
+		<KeyValueProperty name="Element*Type" type="String" val="DB18"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="1&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="1e771a775c7fa04f78264d24ddd8cc19_DATA" reference="Actor.1e771a775c7fa04f78264d24ddd8cc19">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_DB18"/>
+		<KeyValueProperty name="Element*Type" type="String" val="DB18"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="1&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="d868f05e152180656d4a34e217dd98cb_DATA" reference="Actor.d868f05e152180656d4a34e217dd98cb">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_SB36"/>
+		<KeyValueProperty name="Element*Type" type="String" val="SB36"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="3&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="d58d87be60c8dbc48d2e62fcba431473_DATA" reference="Actor.d58d87be60c8dbc48d2e62fcba431473">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_SB36"/>
+		<KeyValueProperty name="Element*Type" type="String" val="SB36"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="3&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="df6d20934fe3e8747117716805b5f773_DATA" reference="Actor.df6d20934fe3e8747117716805b5f773">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_B30"/>
+		<KeyValueProperty name="Element*Type" type="String" val="B30"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Oak_StainedWarmBrown"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Oak_StainedWarmBrown"/>
+	</MetaData>
+	<MetaData name="e6e89ba24d17929757a950273c88f9a6_DATA" reference="Actor.e6e89ba24d17929757a950273c88f9a6">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_B30"/>
+		<KeyValueProperty name="Element*Type" type="String" val="B30"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Oak_StainedWarmBrown"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Oak_StainedWarmBrown"/>
+	</MetaData>
+	<MetaData name="c14b7e89b8f6352646406c57d3b06c18_DATA" reference="Actor.c14b7e89b8f6352646406c57d3b06c18">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_DB24"/>
+		<KeyValueProperty name="Element*Type" type="String" val="DB24"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="4e99c7a2b4cfbb96a2a424ac5efda93c_DATA" reference="Actor.4e99c7a2b4cfbb96a2a424ac5efda93c">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_DB24"/>
+		<KeyValueProperty name="Element*Type" type="String" val="DB24"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="987c9529c42eac1e111918cf76eb55df_DATA" reference="Actor.987c9529c42eac1e111918cf76eb55df">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_B12"/>
+		<KeyValueProperty name="Element*Type" type="String" val="B12"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="980607f1d5ced8c216114d41a76c4caf_DATA" reference="Actor.980607f1d5ced8c216114d41a76c4caf">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_B12"/>
+		<KeyValueProperty name="Element*Type" type="String" val="B12"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="2&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 10 1/2&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="7c56b75b2aebfaf921767358ccb91407_DATA" reference="Actor.7c56b75b2aebfaf921767358ccb91407">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_W18"/>
+		<KeyValueProperty name="Element*Type" type="String" val="W18"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="1&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="1df98d661bb0f3d3c26a4036b8d844c6_DATA" reference="Actor.1df98d661bb0f3d3c26a4036b8d844c6">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_W18"/>
+		<KeyValueProperty name="Element*Type" type="String" val="W18"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="1&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="e075c5361fab91ed125f3c52c12b9e47_DATA" reference="Actor.e075c5361fab91ed125f3c52c12b9e47">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_W30"/>
+		<KeyValueProperty name="Element*Type" type="String" val="W30"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="a38d14b45af51de60c3fc14d0fa53109_DATA" reference="Actor.a38d14b45af51de60c3fc14d0fa53109">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Family" type="String" val="WTK_W30"/>
+		<KeyValueProperty name="Element*Type" type="String" val="W30"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Type*Depth" type="String" val="1&apos; - 0&quot;"/>
+		<KeyValueProperty name="Type*Front_Thickness" type="String" val="0&apos; - 0 3/4&quot;"/>
+		<KeyValueProperty name="Type*Height" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Perimeter_Setback" type="String" val="0&apos; - 0 1/16&quot;"/>
+		<KeyValueProperty name="Type*Shared_Gap" type="String" val="0&apos; - 0 1/8&quot;"/>
+		<KeyValueProperty name="Type*Width" type="String" val="2&apos; - 6&quot;"/>
+		<KeyValueProperty name="Type*Carcass_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Front_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Hardware_Material" type="String" val="Metal_SatinBrass"/>
+		<KeyValueProperty name="Type*Interior_Material" type="String" val="Paint_WarmIvory"/>
+		<KeyValueProperty name="Type*Panel_Material" type="String" val="Paint_WarmIvory"/>
+	</MetaData>
+	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
+		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Level"/>
+		<KeyValueProperty name="Element*Type" type="String" val="1/4&quot; Head"/>
+		<KeyValueProperty name="Element*Name" type="String" val="Finished Floor"/>
+		<KeyValueProperty name="Element*Computation Height" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Building Story" type="String" val="Yes"/>
+	</MetaData>
+	<MetaData name="f764c31321e942e4a44d105c6318916c_DATA" reference="Actor.f764c31321e942e4a44d105c6318916c">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Comments" type="String" val="FX-01"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+	</MetaData>
+	<MetaData name="ff66b8f6d9836b65284e5be92d2b9abf_DATA" reference="Actor.ff66b8f6d9836b65284e5be92d2b9abf">
+		<KeyValueProperty name="Element*Category" type="String" val="Plumbing Fixtures"/>
+		<KeyValueProperty name="Element*Comments" type="String" val="FX-02"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+	</MetaData>
+	<MetaData name="fc4fe78c1ea38443bb390724d08012df_DATA" reference="Actor.fc4fe78c1ea38443bb390724d08012df">
+		<KeyValueProperty name="Element*Category" type="String" val="Plumbing Fixtures"/>
+		<KeyValueProperty name="Element*Comments" type="String" val="FX-03"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+	</MetaData>
+	<MetaData name="c200583cdbf6f9863580daa2d61102d7_DATA" reference="Actor.c200583cdbf6f9863580daa2d61102d7">
+		<KeyValueProperty name="Element*Category" type="String" val="Furniture"/>
+		<KeyValueProperty name="Element*Comments" type="String" val="FX-05"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+	</MetaData>
+	<MetaData name="0cef2e43706aa134ba57c4d89c0f5ea9_DATA" reference="Actor.0cef2e43706aa134ba57c4d89c0f5ea9">
+		<KeyValueProperty name="Element*Category" type="String" val="Generic Models"/>
+		<KeyValueProperty name="Element*Comments" type="String" val="FX-06"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Interior (framing, columns) &lt;0&apos; - 1 1/2&quot;&gt;"/>
+	</MetaData>
+	<MetaData name="af61c761bf7b9ecb99091aa12bb88e30_DATA" reference="Actor.af61c761bf7b9ecb99091aa12bb88e30">
+		<KeyValueProperty name="Element*Category" type="String" val="Casework"/>
+		<KeyValueProperty name="Element*Comments" type="String" val="FX-04"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+	</MetaData>
+	<MetaData name="c782d42a3d8d37bdfc358b3a40b8bc8e_DATA" reference="Actor.c782d42a3d8d37bdfc358b3a40b8bc8e">
+		<KeyValueProperty name="Element*Category" type="String" val="Ceilings"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Basic Ceiling"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Generic"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Perimeter" type="String" val="52&apos; - 0&quot;"/>
+		<KeyValueProperty name="Element*Area" type="String" val="168 SF"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+	</MetaData>
+	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
+		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Level"/>
+		<KeyValueProperty name="Element*Type" type="String" val="1/4&quot; Head"/>
+		<KeyValueProperty name="Element*Name" type="String" val="Ceiling"/>
+		<KeyValueProperty name="Element*Computation Height" type="String" val="0&apos; - 0&quot;"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Building Story" type="String" val="Yes"/>
+	</MetaData>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "Architecture",
+  "Description": "Warm Transitional Kitchen — production visualization",
+  "Plugins": [
+    { "Name": "DatasmithImporter", "Enabled": true },
+    { "Name": "DatasmithContent", "Enabled": true },
+    { "Name": "PythonScriptPlugin", "Enabled": true },
+    { "Name": "EditorScriptingUtilities", "Enabled": true },
+    { "Name": "GeometryScripting", "Enabled": true },
+    { "Name": "MovieRenderPipeline", "Enabled": true },
+    { "Name": "ModelingToolsEditorMode", "Enabled": true },
+    { "Name": "HDRIBackdrop", "Enabled": true },
+    { "Name": "OpenImageDenoise", "Enabled": true }
+  ]
+}

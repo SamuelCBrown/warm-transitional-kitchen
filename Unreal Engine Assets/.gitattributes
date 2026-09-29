@@ -1,0 +1,7 @@
+/WTK/Content/WTK/HDRI/farmland_overcast_4k.uasset filter=lfs diff=lfs merge=lfs -text
+/WTK/Content/WTK/HDRI/sunny_vondelpark_4k.uasset filter=lfs diff=lfs merge=lfs -text
+/WTK/Content/WTK/Textures/HDRI/T_HDRI_FarmlandOvercast.uasset filter=lfs diff=lfs merge=lfs -text
+/WTK/Content/WTK/Textures/Oak/T_Oak_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+/WTK_SourceTextures/HDRI/farmland_overcast/farmland_overcast_4k.hdr filter=lfs diff=lfs merge=lfs -text
+/WTK_SourceTextures/HDRI/sunny_vondelpark/sunny_vondelpark_4k.hdr filter=lfs diff=lfs merge=lfs -text
+/WTK_SourceTextures/Oak/white_oak_veneer/white_oak_veneer_nor_dx_4k.jpg filter=lfs diff=lfs merge=lfs -text

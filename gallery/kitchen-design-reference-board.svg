@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980">
+<rect width="1400" height="980" fill="#f5f1e9"/>
+<g font-family="Segoe UI, Arial, sans-serif" fill="#342d26">
+<text x="60" y="66" font-size="32">WARM TRANSITIONAL CUSTOM KITCHEN</text>
+<text x="60" y="99" font-size="17">Samuel Brown · Portfolio concept · Revision 01 · Schematic reference board</text>
+<text x="60" y="148" font-size="20">Painted cabinetry / stained oak / cream stone / satin brass</text>
+<g transform="translate(100 190) scale(9)">
+<rect x="-4" y="0" width="128" height="96" fill="#f1ece3" transform="scale(1 .55)"/>
+<!-- Front elevation uses a vertical scale of 5 pixels per inch, horizontal 9. -->
+</g>
+<g transform="translate(100 180)">
+<rect x="0" y="0" width="1080" height="480" fill="#f1ece3" stroke="#bcb2a4"/>
+<rect x="0" y="210" width="1080" height="90" fill="#dad4c7"/>
+<rect x="162" y="90" width="324" height="180" fill="#e8e0d1" stroke="#9c9487" stroke-width="2"/>
+<rect x="175.5" y="97.5" width="297" height="165" fill="#c6d4d0"/>
+<path d="M176 231 Q270 201 330 225 T472 215" fill="none" stroke="#9cab95" stroke-width="8"/>
+<g fill="#e8e0d1" stroke="#a79a87" stroke-width="2">
+<rect x="0" y="300" width="162" height="150"/><rect x="162" y="300" width="324" height="150"/>
+<rect x="756" y="300" width="216" height="150"/><rect x="972" y="300" width="108" height="150"/>
+<rect x="0" y="60" width="162" height="150"/><rect x="486" y="60" width="270" height="150"/>
+</g>
+<rect x="486" y="300" width="270" height="150" fill="#866044" stroke="#574431" stroke-width="2"/>
+<g fill="none" stroke="#b8ac98" stroke-width="2">
+<rect x="20" y="72" width="122" height="126"/><rect x="506" y="72" width="95" height="126"/><rect x="641" y="72" width="95" height="126"/>
+<rect x="182" y="312" width="122" height="126"/><rect x="344" y="312" width="122" height="126"/>
+<rect x="776" y="312" width="176" height="51"/><rect x="776" y="387" width="176" height="51"/>
+<rect x="992" y="312" width="68" height="126"/>
+<path d="M324 300V450 M621 60V210 M756 375H972 M0 330H162 M0 375H162"/>
+</g>
+<g fill="none" stroke="#543c2b" stroke-width="2"><rect x="506" y="312" width="95" height="126"/><rect x="641" y="312" width="95" height="126"/><path d="M621 300V450"/></g>
+<g fill="#e8e0d1" stroke="#a79a87"><path d="M0 45H162V60H0Z M486 45H756V60H486Z"/></g>
+<g fill="#866044"><rect x="760.5" y="172.5" width="319.5" height="7.5"/><rect x="760.5" y="102.5" width="319.5" height="7.5"/></g>
+<rect x="-9" y="300" width="1098" height="7.5" fill="#dad4c7" stroke="#a89d8b"/>
+<rect x="0" y="457.5" width="1080" height="22.5" fill="#c5bcac"/>
+<g fill="#b59a60" stroke="#8e7548" stroke-width="1"><circle cx="142" cy="197" r="4"/><circle cx="601" cy="197" r="4"/><circle cx="641" cy="197" r="4"/>
+<circle cx="304" cy="320" r="4"/><circle cx="344" cy="320" r="4"/><circle cx="601" cy="320" r="4"/><circle cx="641" cy="320" r="4"/>
+<path d="M59 315H104 M59 352H104 M59 412H104 M841 337H886 M841 412H886 M1004 320H1049" stroke-width="4"/>
+<path d="M324 300V239Q324 225 340 225Q356 225 356 240" fill="none" stroke-width="5"/></g>
+<g font-size="16" text-anchor="middle"><text x="81" y="513">DB18</text><text x="324" y="513">SB36</text><text x="621" y="513">B30</text><text x="864" y="513">DB24</text><text x="1026" y="513">B12</text></g>
+</g>
+<text x="100" y="725" font-size="16">120-inch cabinet run · 36-inch counter · 96-inch ceiling · Diagram uses compressed vertical scale</text>
+<g transform="translate(60 765)">
+<g stroke="#bfb6a8"><rect width="195" height="65" fill="#e8e0d1"/><rect x="220" width="195" height="65" fill="#866044"/><rect x="440" width="195" height="65" fill="#dad4c7"/><rect x="660" width="195" height="65" fill="#b59a60"/><rect x="880" width="195" height="65" fill="#f1ece3"/><rect x="1100" width="180" height="65" fill="#b19372"/></g>
+<g font-size="16"><text y="91">Warm ivory paint</text><text x="220" y="91">Stained oak</text><text x="440" y="91">Honed cream stone</text><text x="660" y="91">Satin brass</text><text x="880" y="91">Warm off-white wall</text><text x="1100" y="91">Natural oak floor</text></g>
+</g>
+<text x="60" y="916" font-size="16">Photographic precedents: Wood Specialties kitchen gallery, See BOM.</text>
+<text x="60" y="946" font-size="16">Original schematic, not a final render or fabrication drawing. Design_Brief.md controls dimensions and clearances.</text>
+</g></svg>
