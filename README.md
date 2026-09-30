@@ -1,16 +1,12 @@
 # Warm Transitional Kitchen | CAD/BIM Portfolio Study
 
-Samuel Brown’s personal independent CAD portfolio study documents a warm transitional kitchen as a coordinated drawing and modeling exercise. The cabinet run is 120 inches on a 144-inch wall, with a fixed window and a 122-inch counter. The work uses AutoCAD for the A101 plan/front elevation and A102 coordination details, and Revit for the A201 cabinetry model and B30 feature-cabinet views. It also includes a price-backed purchased-item BOM and a conceptual B30 modeled-size list.
-
-The sheets and supporting model show drafting, cabinet layout, elevations, sections, product coordination, and documentation workflow. A-101 and A-102 carry the AutoCAD drawing set; A-201 presents the Revit plan, cabinet-wall elevation, 3D model view, and B30 details. The supporting material includes an exploded B30 view, BOM, reference board, and final visualization renders. These are portfolio study materials, not issued, fabrication-validated, or construction-ready documents.
-
-The Revit A-201 sheet was re-exported after AutoCAD Revision 08, but the project record documents no full dimension-by-dimension AutoCAD/Revit comparison. Field conditions, clearances, and current product templates require verification before use. BOM pricing covers price-backed purchased items only; tax, freight, labor, fabrication, installation, permits, and unpriced items are excluded, so no quoted subtotal should be read as total project cost.
+This kitchen portfolio study documents a 120-inch cabinet run on a 144-inch wall through AutoCAD drawings, a Revit cabinetry model, and a scoped bill of materials. Unreal renders and animation visualize the design.
 
 <p align="center"><a href="gallery/kitchen-dolly-animation-full.mp4"><img src="gallery/readme_previews/kitchen-dolly-animation-preview.gif" alt="Animated kitchen walkthrough preview, showing the cabinet wall and room context" width="640" height="480"></a></p>
 
-*12-second dolly animation; select the preview to open the full MP4.*
-
 ## Technical Documentation
+
+The technical set brings together AutoCAD sheets A-101 and A-102, Revit sheet A-201 with B30 views, and a bill of materials. The drawings and model document the cabinetry; the bill of materials defines a price-backed scope of purchased items and notes its omissions.
 
 ### A-101 | Plan and Front Elevation
 
@@ -18,13 +14,11 @@ The Revit A-201 sheet was re-exported after AutoCAD Revision 08, but the project
 
 AutoCAD sheet documenting the 120-inch cabinet run, room relationship, front elevation, key dimensions, design notes, and basis-of-design products. The drawing notes direct verification against field conditions and current product information.
 
-
 ### A-102 | Coordination Details
 
 <p align="center"><a href="gallery/kitchen-coordination-details-a102.pdf"><img src="gallery/readme_previews/kitchen-coordination-details-a102.png" alt="AutoCAD A-102 coordination sheet with sink and counter, cabinet section, shelf support, B30 door, drawer clearance, and window details" width="900" height="675"></a></p>
 
 AutoCAD detail sheet covering sink/counter coordination, typical cabinet section, shelf support, B30 five-piece door, drawer/B12 clearance, and window/back-splash relationship. Cutouts, hardware settings, fasteners, and templates remain subject to current product data and field verification.
-
 
 ### A-201 | Revit Cabinetry Model
 
@@ -32,6 +26,7 @@ AutoCAD detail sheet covering sink/counter coordination, typical cabinet section
 
 Revit documentation of the cabinetry model with plan, cabinet-wall elevation, 3D view, and B30 front/section. The sheet was re-exported after AutoCAD Revision 08; the project record does not document a full dimension-by-dimension comparison between the AutoCAD and Revit sets.
 
+These documents express design intent and are not construction-ready. Verify field conditions, clearances, and current product dimensions before construction or purchase.
 
 ## Model, Scope, and References
 
@@ -59,7 +54,13 @@ The portfolio PDF, page 4, provides the B30 study cut-list context: net modeled 
 
 Original schematic reference board for the study’s layout and material direction. Its photographic precedents are credited on the board to the Wood Specialties kitchen gallery; the board is a schematic, not a final render or fabrication drawing.
 
+The Revit model carries the cabinetry design into visualization, with a warm ivory, stained oak, cream stone, and satin brass palette developed for the rendered views.
+
 ## Final Unreal Engine Renders
+
+The Revit model was exported through Datasmith and reimported on September 28, 2026, after the under-cabinet LED was removed. The handoff included material and level corrections. Oak specular and clear coat were reduced, its base color was brightened, and the countertop veining UV scale was corrected.
+
+Final Unreal Engine 5.7 Path Tracer Movie Render Queue stills comprise three 3840 × 2160 PNGs at 1024 samples per pixel and eight bounces. A 1024-versus-2048 sample test informed the still setting. The animation is 288 frames at 1920 × 1080, 24 fps, and 12 seconds, encoded as H.264 with 512 samples per pixel, eight bounces, and denoising.
 
 <p align="center"><a href="gallery/kitchen-final-wide-render.png"><img src="gallery/readme_previews/kitchen-final-wide-render.png" alt="Final wide Unreal Engine kitchen render showing the full cabinet wall, window, counter, and room composition" width="720" height="540"></a></p>
 
